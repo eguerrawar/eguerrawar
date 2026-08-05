@@ -2,7 +2,7 @@
 
 **Computer Engineering @ Drexel University** · Philadelphia, PA · Graduating September 2026
 
-I work at the seam between hardware and infrastructure — writing firmware for microcontrollers, automating Windows environments in PowerShell, and debugging networks from the physical layer up. I like problems where you have to figure out *which* layer is lying to you.
+I work at the seam between hardware, infrastructure, and IT — writing firmware for microcontrollers, automating Windows environments in PowerShell, and debugging networks from the physical layer up. I like problems where you have to figure out *which* layer is lying to you.
 
 ---
 
