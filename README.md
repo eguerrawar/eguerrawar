@@ -48,7 +48,7 @@ Bare-metal peripheral drivers with CI, a custom ESP32 environmental sensor node 
 
 ## 🎧 Off the clock
 
-I DJ **minimal house** — two sets at The Barbary in Philadelphia and two in New York. Reading a room in real time is a different skill than debugging a state machine, but the feedback loop is weirdly similar: small adjustment, watch what happens, adjust again.
+I DJ **minimal house**. Performed two sets at The Barbary in Philadelphia and two in New York. Reading a room in real time is a different skill than debugging a state machine, but the feedback loop is weirdly similar: small adjustment, watch what happens, adjust again.
 
 Also co-founder and Treasurer of **BRASA**, Drexel's Brazilian Students Association — built it from scratch into a 30+ member community with university funding behind it. Native English and Brazilian Portuguese speaker. Volunteer at the Philadelphia Marathon every year since 2021.
 
