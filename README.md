@@ -58,4 +58,4 @@ Also co-founder and Treasurer of **BRASA**, Drexel's Brazilian Students Associat
 
 [LinkedIn](https://www.linkedin.com/in/eduardopguerra/) · eduardopiresguerra@gmail.com
 
-*Open to full-time roles in systems engineering, IT infrastructure, embedded, and software — starting Fall 2026.*
+*Open to full-time roles in systems engineering, IT infrastructure, embedded, and software — starting September 2026.*
