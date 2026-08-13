@@ -33,7 +33,7 @@ Senior design: an ESP32-based mixed-signal embedded platform that detects driver
 ## 💼 Experience
 
 **Information Systems Co-op** — Weber Display & Packaging *(Mar 2025 – Sep 2025)*  
-Ran Microsoft 365 mailbox lifecycle for a 1,500-user manufacturing environment, including .PST exports and eDiscovery preservation in Purview. Automated recurring mailbox admin in PowerShell, cutting 3–4 hours of manual work per week. Managed FortiGate firewall policies, VPN access, and traffic filtering — traffic analysis I produced fed directly into two security investigations. Administered the KiwiPlan ERP across six departments.
+Ran Microsoft 365 mailbox lifecycle for a 1,500-user manufacturing environment, including .PST exports and eDiscovery preservation in Purview. Automated recurring mailbox admin in PowerShell, cutting 3–4 hours of manual work per week. Managed FortiGate firewall policies, VPN access, and traffic filtering. For instance, the traffic analysis I produced fed directly into two security investigations. Administered the KiwiPlan ERP across six departments.
 
 **IT Network Support Specialist** — City of Philadelphia, Streets Dept. *(Mar 2023 – Sep 2023)*  
 First point of contact for a 300+ user department. Built and maintained MDT deployment images for 200–300 machines, replacing manual installs with automated imaging. Developed internal SQL and Python tooling to replace a spreadsheet-based hardware inventory process.
@@ -50,7 +50,7 @@ Bare-metal peripheral drivers with CI, a custom ESP32 environmental sensor node 
 
 I DJ **minimal house**. Performed two sets at The Barbary in Philadelphia and two in New York. Reading a room in real time is a different skill than debugging a state machine, but the feedback loop is weirdly similar: small adjustment, watch what happens, adjust again.
 
-Also co-founder and Treasurer of **BRASA**, Drexel's Brazilian Students Association — built it from scratch into a 30+ member community with university funding behind it. Native English and Brazilian Portuguese speaker. Volunteer at the Philadelphia Marathon every year since 2021.
+Also co-founder and Treasurer of **BRASA**, Drexel's Brazilian Students Association. I built it from scratch with 3 Brazilian colleagues, and transformed it into a 30+ member community with university funding behind it. Native English and Brazilian Portuguese speaker. Volunteer at the Philadelphia Marathon every year since 2021.
 
 ---
 
