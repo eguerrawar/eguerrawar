@@ -56,6 +56,6 @@ Also co-founder and Treasurer of **BRASA**, Drexel's Brazilian Students Associat
 
 ## 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/eduardopguerra/) · eduardopiresguerra@gmail.com
+[LinkedIn](https://www.linkedin.com/in/eduardopguerra/) · eduardopiresguerra@gmail.com · +1 267-881-3957
 
 *Open to full-time roles in systems engineering, IT infrastructure, embedded, and software — starting September 2026.*
