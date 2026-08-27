@@ -19,9 +19,9 @@ I work at the seam between hardware, infrastructure, and IT, writing firmware fo
 
 ---
 
-## 🚗 V.I.T.A.L.S. — Vehicle Integrated Software for Autonomic Loss Seatbelt
+## 🚗 V.I.T.A.L.S. — Vehicle Integrated Software for Autonomic Loss System (Senior Design Capstone Project)
 
-Senior design: an ESP32-based mixed-signal embedded platform that detects driver medical incapacitation through physiological sensing and actuates a seatbelt response.
+Senior Design Project: an ESP32-based mixed-signal embedded platform that detects driver medical incapacitation through physiological sensing and actuates a seatbelt response.
 
 - Built a hardware test system validating signal integrity and timer-based sampling at 50–100 ms across 10 bench sessions
 - Wrote an 18-scenario test plan with explicit pass/fail criteria **before** testing — covering BLE telemetry and PWM + MOSFET actuator control under transient and sustained fault conditions
